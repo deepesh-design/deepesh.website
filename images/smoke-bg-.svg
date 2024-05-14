@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="618" height="422" viewBox="0 0 618 422">
+  <defs>
+    <rect id="smoke-bg--a" width="618" height="422" x=".696" y="0" rx="20"/>
+  </defs>
+  <use fill="#F5F5F7" fill-rule="evenodd" transform="translate(-.696)" xlink:href="#smoke-bg--a"/>
+</svg>

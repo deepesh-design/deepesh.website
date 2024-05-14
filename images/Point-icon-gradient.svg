@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="361" height="210" viewBox="0 0 361 210">
+  <defs>
+    <linearGradient id="point-icon-gradient-a" x1="1.523%" x2="98.643%" y1="65.846%" y2="34.362%">
+      <stop offset="0%" stop-color="#25C0F9"/>
+      <stop offset="10.727%" stop-color="#2784FC"/>
+      <stop offset="16.525%" stop-color="#276EFE"/>
+      <stop offset="19.943%" stop-color="#2860FE"/>
+      <stop offset="24%" stop-color="#2856FF"/>
+      <stop offset="35.678%" stop-color="#7F4AFF"/>
+      <stop offset="48%" stop-color="#B741FF"/>
+      <stop offset="74%" stop-color="#FA4E99"/>
+      <stop offset="100%" stop-color="#FCD446"/>
+    </linearGradient>
+    <linearGradient id="point-icon-gradient-b" x1="-56.546%" x2="148.375%" y1="286.046%" y2="-98.313%">
+      <stop offset="0%" stop-color="#26C4FC"/>
+      <stop offset="24%" stop-color="#274EF2"/>
+      <stop offset="48%" stop-color="#A02AF4"/>
+      <stop offset="74%" stop-color="#F74D82"/>
+      <stop offset="100%" stop-color="#FCD844"/>
+    </linearGradient>
+    <linearGradient id="point-icon-gradient-c" x1="34.871%" x2="68.216%" y1="85.761%" y2="7.721%">
+      <stop offset="0%" stop-color="#26C4FC"/>
+      <stop offset="24%" stop-color="#274EF2"/>
+      <stop offset="48%" stop-color="#A02AF4"/>
+      <stop offset="74%" stop-color="#F74D82"/>
+      <stop offset="100%" stop-color="#FCD844"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="361" height="210" fill="url(#point-icon-gradient-a)" rx="15"/>
+    <g transform="translate(134 59)">
+      <rect width="92" height="92" fill="#F2F6F8" rx="20"/>
+      <g fill-rule="nonzero" transform="translate(24 17)">
+        <circle cx="6.032" cy="6.032" r="5.98" fill="url(#point-icon-gradient-b)" transform="translate(15.917 15.974)"/>
+        <path fill="url(#point-icon-gradient-c)" d="M26.8775194,0.557105943 C23.318863,-0.272868217 19.5100775,-0.159173127 15.9912145,0.801550388 L15.9002584,0.801550388 C10.0165375,2.46149871 4.86614987,6.64547804 2.22273902,12.1767442 C1.62015504,13.4103359 1.14832041,14.7064599 0.76744186,16.0310078 C0.568475452,16.8609819 0.341085271,17.6682171 0.272868217,18.5152455 C-1.18242894,30.2713178 4.18966408,42.6129199 11.8925065,51.3447028 C13.8196382,53.5617571 16.1447028,55.6878553 18.3390181,57.6377261 C19.6351421,58.9338501 22.0113695,57.8821705 21.9431525,56.0459948 L21.9431525,46.0578811 C21.9431525,45.3870801 22.2330749,44.7617571 22.7731266,44.3581395 C23.3302326,43.8863049 24.0919897,43.8863049 24.7912145,43.8408269 C25.2403101,43.7726098 25.8883721,43.6816537 26.3374677,43.5963824 C34.2847545,42.0728682 41.0268734,35.7343669 43.1529716,27.9235142 C46.5808786,16.0310078 38.7245478,3.04134367 26.8775194,0.557105943 Z M33.9777778,22.6366925 C33.7788114,26.377261 31.7607235,29.9359173 28.6284238,31.9994832 C19.4248062,38.2015504 7.26511628,29.3105943 10.4031008,18.6516796 C14.6496124,5.05374677 34.4211886,8.35090439 33.9777778,22.6366925 Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

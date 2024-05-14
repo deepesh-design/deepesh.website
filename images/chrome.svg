@@ -1,0 +1,315 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432" height="305" viewBox="0 0 432 305">
+  <defs>
+    <rect id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-a" width="432" height="305" x="0" y="0"/>
+    <path id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-c" d="M5,0 L1184,0 C1186.76142,-5.07265313e-16 1189,2.23857625 1189,5 L1189,45 L1189,45 L0,45 L0,5 C-3.38176876e-16,2.23857625 2.23857625,5.07265313e-16 5,0 Z"/>
+    <filter id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-d" width="100.1%" height="102.2%" x="0%" y="-1.1%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0.298039216   0 0 0 0 0.301960784   0 0 0 0 0.31372549  0 0 0 1 0"/>
+      <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0.301960784   0 0 0 0 0.301960784   0 0 0 0 0.31372549  0 0 0 1 0"/>
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner3"/>
+      <feComposite in="shadowOffsetInner3" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner3"/>
+      <feColorMatrix in="shadowInnerInner3" result="shadowMatrixInner3" values="0 0 0 0 0.37254902   0 0 0 0 0.376470588   0 0 0 0 0.380392157  0 0 0 1 0"/>
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetInner4"/>
+      <feComposite in="shadowOffsetInner4" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner4"/>
+      <feColorMatrix in="shadowInnerInner4" result="shadowMatrixInner4" values="0 0 0 0 0.443137255   0 0 0 0 0.443137255   0 0 0 0 0.450980392  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+        <feMergeNode in="shadowMatrixInner3"/>
+        <feMergeNode in="shadowMatrixInner4"/>
+      </feMerge>
+    </filter>
+    <path id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-e" d="M0,42 L1189,42 L1189,725 C1189,727.761424 1186.76142,730 1184,730 L5,730 C2.23857625,730 3.38176876e-16,727.761424 0,725 L0,42 L0,42 Z"/>
+    <filter id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-f" width="100.1%" height="100.1%" x="0%" y="-.1%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0.298039216   0 0 0 0 0.301960784   0 0 0 0 0.31372549  0 0 0 1 0"/>
+      <feOffset dx="1" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0.301960784   0 0 0 0 0.301960784   0 0 0 0 0.31372549  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+    <rect id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-h" width="3" height="3" x="0" y="0"/>
+    <filter id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-g" width="116.7%" height="133.3%" x="-8.3%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.6   0 0 0 0 0.607843137   0 0 0 0 0.611764706  0 0 0 1 0"/>
+    </filter>
+    <rect id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-j" width="3" height="3" x="5" y="0"/>
+    <filter id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-i" width="116.7%" height="133.3%" x="-8.3%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.6   0 0 0 0 0.607843137   0 0 0 0 0.611764706  0 0 0 1 0"/>
+    </filter>
+    <rect id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-l" width="3" height="3" x="10" y="0"/>
+    <filter id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-k" width="116.7%" height="133.3%" x="-8.3%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.6   0 0 0 0 0.607843137   0 0 0 0 0.611764706  0 0 0 1 0"/>
+    </filter>
+    <rect id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-n" width="3" height="3" x="0" y="5"/>
+    <filter id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-m" width="116.7%" height="133.3%" x="-8.3%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.6   0 0 0 0 0.607843137   0 0 0 0 0.611764706  0 0 0 1 0"/>
+    </filter>
+    <rect id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-p" width="3" height="3" x="5" y="5"/>
+    <filter id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-o" width="116.7%" height="133.3%" x="-8.3%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.6   0 0 0 0 0.607843137   0 0 0 0 0.611764706  0 0 0 1 0"/>
+    </filter>
+    <rect id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-r" width="3" height="3" x="10" y="5"/>
+    <filter id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-q" width="116.7%" height="133.3%" x="-8.3%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.6   0 0 0 0 0.607843137   0 0 0 0 0.611764706  0 0 0 1 0"/>
+    </filter>
+    <rect id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-t" width="3" height="3" x="0" y="10"/>
+    <filter id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-s" width="116.7%" height="133.3%" x="-8.3%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.6   0 0 0 0 0.607843137   0 0 0 0 0.611764706  0 0 0 1 0"/>
+    </filter>
+    <rect id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-v" width="3" height="3" x="5" y="10"/>
+    <filter id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-u" width="116.7%" height="133.3%" x="-8.3%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.6   0 0 0 0 0.607843137   0 0 0 0 0.611764706  0 0 0 1 0"/>
+    </filter>
+    <rect id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-x" width="3" height="3" x="10" y="10"/>
+    <filter id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-w" width="116.7%" height="133.3%" x="-8.3%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.6   0 0 0 0 0.607843137   0 0 0 0 0.611764706  0 0 0 1 0"/>
+    </filter>
+    <path id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-y" d="M5,0 L1098,0 C1100.76142,-5.07265313e-16 1103,2.23857625 1103,5 L1103,45 L1103,45 L0,45 L0,5 C-3.38176876e-16,2.23857625 2.23857625,5.07265313e-16 5,0 Z"/>
+    <filter id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-z" width="100%" height="101.1%" x="0%" y="-.6%" filterUnits="objectBoundingBox">
+      <feOffset dx="-.5" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0.803921569   0 0 0 0 0.803921569   0 0 0 0 0.803921569  0 0 0 1 0"/>
+      <feOffset dx=".5" dy=".5" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0.804998868   0 0 0 0 0.804998868   0 0 0 0 0.804998868  0 0 0 1 0"/>
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetInner3"/>
+      <feComposite in="shadowOffsetInner3" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner3"/>
+      <feColorMatrix in="shadowInnerInner3" result="shadowMatrixInner3" values="0 0 0 0 0.905882353   0 0 0 0 0.909803922   0 0 0 0 0.921568627  0 0 0 1 0"/>
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetInner4"/>
+      <feComposite in="shadowOffsetInner4" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner4"/>
+      <feColorMatrix in="shadowInnerInner4" result="shadowMatrixInner4" values="0 0 0 0 0.949019608   0 0 0 0 0.949019608   0 0 0 0 0.956862745  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+        <feMergeNode in="shadowMatrixInner3"/>
+        <feMergeNode in="shadowMatrixInner4"/>
+      </feMerge>
+    </filter>
+    <path id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-A" d="M0,42 L1103,42 L1103,725 C1103,727.761424 1100.76142,730 1098,730 L5,730 C2.23857625,730 3.38176876e-16,727.761424 0,725 L0,42 L0,42 Z"/>
+    <filter id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-B" width="100%" height="100.1%" x="0%" y="0%" filterUnits="objectBoundingBox">
+      <feOffset dx="-.5" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0.803921569   0 0 0 0 0.803921569   0 0 0 0 0.803921569  0 0 0 1 0"/>
+      <feOffset dx=".5" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0.803921569   0 0 0 0 0.803921569   0 0 0 0 0.803921569  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+    <rect id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-D" width="3" height="3" x="0" y="0"/>
+    <filter id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-C" width="116.7%" height="133.3%" x="-8.3%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.6   0 0 0 0 0.607843137   0 0 0 0 0.611764706  0 0 0 1 0"/>
+    </filter>
+    <rect id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-F" width="3" height="3" x="5" y="0"/>
+    <filter id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-E" width="116.7%" height="133.3%" x="-8.3%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.6   0 0 0 0 0.607843137   0 0 0 0 0.611764706  0 0 0 1 0"/>
+    </filter>
+    <rect id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-H" width="3" height="3" x="10" y="0"/>
+    <filter id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-G" width="116.7%" height="133.3%" x="-8.3%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.6   0 0 0 0 0.607843137   0 0 0 0 0.611764706  0 0 0 1 0"/>
+    </filter>
+    <rect id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-J" width="3" height="3" x="0" y="5"/>
+    <filter id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-I" width="116.7%" height="133.3%" x="-8.3%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.6   0 0 0 0 0.607843137   0 0 0 0 0.611764706  0 0 0 1 0"/>
+    </filter>
+    <rect id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-L" width="3" height="3" x="5" y="5"/>
+    <filter id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-K" width="116.7%" height="133.3%" x="-8.3%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.6   0 0 0 0 0.607843137   0 0 0 0 0.611764706  0 0 0 1 0"/>
+    </filter>
+    <rect id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-N" width="3" height="3" x="10" y="5"/>
+    <filter id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-M" width="116.7%" height="133.3%" x="-8.3%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.6   0 0 0 0 0.607843137   0 0 0 0 0.611764706  0 0 0 1 0"/>
+    </filter>
+    <rect id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-P" width="3" height="3" x="0" y="10"/>
+    <filter id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-O" width="116.7%" height="133.3%" x="-8.3%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.6   0 0 0 0 0.607843137   0 0 0 0 0.611764706  0 0 0 1 0"/>
+    </filter>
+    <rect id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-R" width="3" height="3" x="5" y="10"/>
+    <filter id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-Q" width="116.7%" height="133.3%" x="-8.3%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.6   0 0 0 0 0.607843137   0 0 0 0 0.611764706  0 0 0 1 0"/>
+    </filter>
+    <rect id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-T" width="3" height="3" x="10" y="10"/>
+    <filter id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-S" width="116.7%" height="133.3%" x="-8.3%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.6   0 0 0 0 0.607843137   0 0 0 0 0.611764706  0 0 0 1 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-b" fill="#fff">
+      <use xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-a"/>
+    </mask>
+    <use fill="#D8D8D8" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-a"/>
+    <g mask="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-b)">
+      <g fill-rule="nonzero">
+        <use fill="#202124" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-c"/>
+        <use fill="#000" filter="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-d)" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-c"/>
+      </g>
+      <circle cx="19" cy="21.5" r="6" fill="#FF5A52" fill-rule="nonzero"/>
+      <circle cx="39" cy="21.5" r="6" fill="#E6C029" fill-rule="nonzero"/>
+      <circle cx="59" cy="21.5" r="6" fill="#53C22B" fill-rule="nonzero"/>
+      <path fill="#55575A" fill-rule="nonzero" d="M340,19 C340.552285,19 341,19.4477153 341,20 L341,24 L345,24 C345.552285,24 346,24.4477153 346,25 C346,25.5522847 345.552285,26 345,26 L341,26 L341,30 C341,30.5522847 340.552285,31 340,31 C339.447715,31 339,30.5522847 339,30 L339,26 L335,26 C334.447715,26 334,25.5522847 334,25 C334,24.4477153 334.447715,24 335,24 L339,24 L339,20 C339,19.4477153 339.447715,19 340,19 Z"/>
+      <g transform="translate(70 8)">
+        <path fill="#323639" fill-rule="nonzero" d="M16,0 C10.6666667,0 8,2.66666667 8,8 C8,13.3333333 8,19.3333333 8,26 C8,31.3333333 5.33333333,34 0,34 C9.33333333,34 14.6666667,34 16,34 L16,0 Z"/>
+        <path fill="#323639" fill-rule="nonzero" d="M256,0 C250.666667,0 248,2.66666667 248,8 C248,13.3333333 248,19.3333333 248,26 C248,31.3333333 245.333333,34 240,34 C249.333333,34 254.666667,34 256,34 L256,0 Z" transform="matrix(-1 0 0 1 496 0)"/>
+        <rect width="224" height="34" x="16" fill="#323639" fill-rule="nonzero"/>
+        <path fill="#55575A" d="M233.16525,17.10825 L235.99625,14.27725 C236.28725,13.98625 236.28725,13.50925 235.99625,13.21825 C235.70525,12.92725 235.22925,12.92725 234.93825,13.21825 L232.10725,16.04925 L229.27625,13.21825 C228.98525,12.92725 228.50925,12.92725 228.21825,13.21825 C227.92725,13.50925 227.92725,13.98625 228.21825,14.27725 L231.04925,17.10825 L228.21825,19.93925 C227.92725,20.23025 227.92725,20.70625 228.21825,20.99725 C228.50925,21.28825 228.98525,21.28825 229.27625,20.99725 L232.10725,18.16625 L234.93825,20.99725 C235.22925,21.28825 235.70525,21.28825 235.99625,20.99725 C236.28725,20.70625 236.28725,20.23025 235.99625,19.93925 L233.16525,17.10825 Z"/>
+      </g>
+      <text fill="#FFF" font-family="ArialMT, Arial" font-size="13" letter-spacing="-.2">
+        <tspan x="120" y="29">Announce</tspan>
+      </text>
+      <g fill-rule="nonzero" transform="translate(95 17)">
+        <path fill="#F22F55" d="M3.33834586 11.106203L3.36231203 11.1174812 2.46851504 13.3674812C2.39097744 13.5620301 2.26691729 13.7354323 2.10902256 13.8735902 1.56907895 14.3303571.759868421 14.262688.303101504 13.7227444.112781955 13.4971805.00563909774 13.212406 0 12.9177632L0 12.881109C.00281954887 12.7218045.0352443609 12.5653195.0944548872 12.418703L.979793233 10.1898496.979793233 10.1898496C1.19407895 10.3773496 1.46475564 10.487312 1.74953008 10.5028195L1.81015038 10.5028195 2.58129699 10.5239662C2.74906015 10.7269737 2.95347744 10.8975564 3.18468045 11.0258459 3.23261278 11.0540414 3.28477444 11.0808271 3.33834586 11.106203zM3.75140977 10.1386485L3.60197368 10.1315841 3.54276316 10.1315841C3.50469925 10.1315841 3.47368421 10.1810347 3.47368421 10.2446139 3.47368421 10.2210661 3.47791353 10.1951634 3.48778195 10.1739703 3.50046992 10.1457128 3.52161654 10.1292293 3.54276316 10.1292293L3.60197368 10.1292293 3.75140977 10.1386485zM9.74718045 4.80733083L9.62030075 4.85667293 7.49577068 5.67716165 7.36466165 5.72791353 7.36043233 5.72791353 6.43139098 3.38768797 6.1818609 4.01785714 5.16400376 6.57800752 4.79887218 6.71898496 4.61983083 6.78806391 1.91588346 7.83411654 4.46475564 1.41682331 4.47180451 1.38862782 4.47885338 1.38157895 4.53806391 1.23073308 4.53806391 1.22650376 4.55216165 1.19830827C5.03571429.160714286 6.26926692-.289003759 7.30827068.194548872 7.77772556.41306391 8.14708647.799342105 8.34586466 1.27584586L8.34586466 1.27866541 8.36983083 1.33928571 9.74718045 4.80733083zM12.8656015 12.9121241C12.8557331 13.587406 12.3270677 14.1414474 11.6517857 14.1823308L11.5784774 14.1851504C11.3218985 14.1851504 11.0723684 14.106203 10.862312 13.9581767 10.6522556 13.8129699 10.4901316 13.6085526 10.3956767 13.3703008L9.34116541 10.7142857 11.2711466 10.7678571 11.2796053 10.7678571 11.3388158 10.7706767 11.393797 10.7706767C11.4346805 10.7706767 11.4755639 10.7664474 11.5164474 10.7608083L11.5220865 10.7608083C11.6842105 10.7354323 11.8392857 10.6762218 11.9774436 10.587406L11.9830827 10.5831767 12.0296053 10.5521617 12.7091165 12.2650376 12.7457707 12.3524436 12.7443609 12.3524436 12.7725564 12.4229323C12.8134398 12.5216165 12.8402256 12.6259398 12.8543233 12.7316729L12.8543233 12.7316729C12.862782 12.7908835 12.8656015 12.8515038 12.8656015 12.9121241z"/>
+        <g transform="translate(.959 4.92)">
+          <path fill="#F22F55" d="M11.0949248,4.64802632 C11.0836466,4.64520677 11.0723684,4.64379699 11.0610902,4.64379699 C11.0131579,4.64379699 10.9694549,4.66635338 10.9426692,4.70582707 L10.9299812,4.72838346 C10.8905075,4.79887218 10.843985,4.86513158 10.7904135,4.92575188 C10.7565789,4.96381579 10.7199248,4.99765038 10.6804511,5.02866541 C10.6057331,5.08646617 10.5169173,5.12453008 10.4238722,5.14003759 C10.3984962,5.14285714 10.3717105,5.14567669 10.3463346,5.14567669 C9.76409774,5.14567669 9.15789474,4.1799812 8.96898496,2.91823308 C8.85761278,2.17951128 8.91259398,1.49718045 9.08881579,1.02349624 C9.11137218,0.961466165 9.13815789,0.900845865 9.16776316,0.841635338 C9.3031015,0.572368421 9.48778195,0.40037594 9.70770677,0.367951128 C9.73308271,0.363721805 9.75986842,0.360902256 9.78524436,0.360902256 C10.0136278,0.360902256 10.2462406,0.510338346 10.4548872,0.766917293 L10.4675752,0.782424812 C10.4675752,0.783834586 10.4675752,0.783834586 10.468985,0.783834586 C10.4985902,0.816259398 10.5394737,0.833176692 10.5831767,0.833176692 C10.6691729,0.834586466 10.7382519,0.765507519 10.7396617,0.679511278 C10.7396617,0.648496241 10.731203,0.616071429 10.7128759,0.590695489 L10.7044173,0.578007519 L10.7030075,0.578007519 C10.4281015,0.218515038 10.1080827,0.00563909774 9.79229323,0.00563909774 C9.75704887,0.00563909774 9.72321429,0.00845864662 9.68796992,0.0140977444 C9.64144737,0.0211466165 9.59492481,0.032424812 9.5512218,0.0493421053 L9.54840226,0.0493421053 L9.52866541,0.0578007519 L8.9450188,0.283364662 L8.81390977,0.334116541 L6.6893797,1.15178571 L6.55827068,1.20253759 L3.9924812,2.19360902 L3.81343985,2.26268797 L0.923402256,3.3806391 L0.744360902,3.44971805 L0.628759398,3.49342105 L0.477913534,3.55263158 C0.0578007519,3.76268797 -0.11137218,4.27443609 0.0986842105,4.6931391 C0.12406015,4.74530075 0.155075188,4.79464286 0.191729323,4.83975564 C0.224154135,4.8806391 0.260808271,4.91729323 0.29887218,4.95253759 C0.442669173,5.07800752 0.623120301,5.14990602 0.81343985,5.15977444 L0.857142857,5.15977444 L1.84257519,5.18796992 C1.98073308,5.40789474 2.18515038,5.59680451 2.43327068,5.73778195 C2.47415414,5.76033835 2.51644737,5.78148496 2.5587406,5.80263158 C2.84210526,5.93233083 3.15084586,6 3.46381579,5.99861181 C4.12640977,5.99861181 4.70582707,5.70958647 5.02443609,5.27537594 L8.21193609,5.3656015 L8.3656015,5.36983083 L10.325188,5.42340226 L10.3265977,5.42340226 L10.3956767,5.4262218 L10.4281015,5.4262218 C10.4534774,5.4262218 10.4774436,5.42340226 10.5014098,5.41917293 C10.6043233,5.40366541 10.7030075,5.3656015 10.7904135,5.30780075 L10.7932331,5.30780075 C10.8341165,5.28101504 10.8721805,5.25140977 10.9074248,5.21898496 C11.0117481,5.12171053 11.0991541,5.00892857 11.1668233,4.88345865 L11.2006579,4.82142857 C11.218985,4.74389098 11.1724624,4.66635338 11.0949248,4.64802632 Z M4.27866541,5.35714286 C4.27584586,5.39097744 4.25610902,5.42199248 4.22368421,5.4375 C3.74859023,5.68843985 3.18045113,5.68984962 2.70394737,5.43890977 C2.66165414,5.41494361 2.62077068,5.38956767 2.58270677,5.36278195 L2.54182331,5.33317669 C2.52490602,5.32048872 2.51503759,5.29934211 2.51503759,5.27960526 L2.51503759,5.27819549 C2.51503759,5.26409774 2.51926692,5.24859023 2.52913534,5.23590226 C2.54182331,5.21898496 2.56296992,5.20911654 2.58411654,5.20911654 L2.64332707,5.20911654 L2.79276316,5.21334586 L4.1799812,5.25281955 C4.22932331,5.25281955 4.27020677,5.28806391 4.27725564,5.33599624 C4.27725564,5.33881579 4.27866541,5.34163534 4.27866541,5.34586466 C4.27866541,5.34868421 4.27866541,5.35291353 4.27866541,5.35714286 Z"/>
+          <path fill="#F22F55" d="M4.27725564,5.33599624 C4.27584586,5.32753759 4.27302632,5.31766917 4.26879699,5.30921053 C4.2518797,5.27537594 4.21804511,5.25422932 4.1799812,5.25422932 L2.79276316,5.21475564 L2.64332707,5.21052632 L2.58411654,5.21052632 C2.54605263,5.21052632 2.51503759,5.24013158 2.51503759,5.27819549 C2.51503759,5.26409774 2.51926692,5.24859023 2.52913534,5.23590226 C2.54182331,5.21898496 2.56296992,5.20911654 2.58411654,5.20911654 L2.64332707,5.20911654 L2.79276316,5.21334586 L4.1799812,5.25281955 C4.22932331,5.25281955 4.27020677,5.28806391 4.27725564,5.33599624 Z"/>
+          <path fill="#FFF" d="M4.22368421,5.80306666 C3.74859023,6.63499638 3.18045113,6.63967014 2.70394737,5.80774042 C2.66165414,5.72828646 2.62077068,5.64415874 2.58270677,5.55535725 L2.54182331,5.45720824 C2.52490602,5.41514437 2.51503759,5.34503794 2.51503759,5.27960526 C2.51503759,5.3497117 2.52490602,5.41981814 2.54182331,5.461882 L2.58270677,5.56003101 C2.62077068,5.6488325 2.66165414,5.73296022 2.70394737,5.81241418 C3.17904135,6.6443439 3.74859023,6.63967014 4.22368421,5.80306666 C4.25610902,5.75632903 4.27584586,5.6488325 4.27866541,5.5366622 C4.27584586,5.6488325 4.25469925,5.75165527 4.22368421,5.80306666 Z M4.22368421,5.80306666 C3.74859023,6.63499638 3.18045113,6.63967014 2.70394737,5.80774042 C2.66165414,5.72828646 2.62077068,5.64415874 2.58270677,5.55535725 L2.54182331,5.45720824 C2.52490602,5.41514437 2.51503759,5.34503794 2.51503759,5.27960526 C2.51503759,5.3497117 2.52490602,5.41981814 2.54182331,5.461882 L2.58270677,5.56003101 C2.62077068,5.6488325 2.66165414,5.73296022 2.70394737,5.81241418 C3.17904135,6.6443439 3.74859023,6.63967014 4.22368421,5.80306666 C4.25610902,5.75632903 4.27584586,5.6488325 4.27866541,5.5366622 C4.27584586,5.6488325 4.25469925,5.75165527 4.22368421,5.80306666 Z M4.22368421,5.80306666 C3.74859023,6.63499638 3.18045113,6.63967014 2.70394737,5.80774042 C2.66165414,5.72828646 2.62077068,5.64415874 2.58270677,5.55535725 L2.54182331,5.45720824 C2.52490602,5.41514437 2.51503759,5.34503794 2.51503759,5.27960526 C2.51503759,5.3497117 2.52490602,5.41981814 2.54182331,5.461882 L2.58270677,5.56003101 C2.62077068,5.6488325 2.66165414,5.73296022 2.70394737,5.81241418 C3.17904135,6.6443439 3.74859023,6.63967014 4.22368421,5.80306666 C4.25610902,5.75632903 4.27584586,5.6488325 4.27866541,5.5366622 C4.27584586,5.6488325 4.25469925,5.75165527 4.22368421,5.80306666 Z"/>
+        </g>
+        <path fill="#F22F55" d="M11.2894737 6.73590226C11.537594 7.32659774 11.6264098 7.97368421 11.5446429 8.60949248 11.5361842 8.67857143 11.5714286 8.74483083 11.6334586 8.77584586L11.637688 8.77584586C11.7166353 8.81672932 11.8139098 8.78430451 11.8533835 8.70535714 11.8618421 8.68843985 11.8674812 8.67152256 11.8703008 8.65319549 11.9633459 7.95817669 11.8717105 7.25469925 11.5869361 6.60620301 11.550282 6.52443609 11.4544173 6.48778195 11.3726504 6.52443609 11.3557331 6.53148496 11.3388158 6.54276316 11.3261278 6.55545113L11.3261278 6.55545113C11.2781955 6.60197368 11.262688 6.67387218 11.2894737 6.73590226zM12.2932331 5.88862782C12.8782895 6.86842105 13.0390038 8.04276316 12.7401316 9.14379699 12.7147556 9.23543233 12.7584586 9.33270677 12.8444549 9.375L12.850094 9.37781955C12.9487782 9.42716165 13.068609 9.38768797 13.1179511 9.28759398 13.1235902 9.27631579 13.1278195 9.26503759 13.1320489 9.2537594 13.4816729 8.04558271 13.3012218 6.74718045 12.6358083 5.6799812 12.5765977 5.58552632 12.4525376 5.55733083 12.3580827 5.61654135 12.3482143 5.62359023 12.3383459 5.6306391 12.3284774 5.63909774L12.3284774 5.63909774C12.2593985 5.70394737 12.2453008 5.8068609 12.2932331 5.88862782zM13.4196429 4.98637218C14.4318609 6.33129699 14.6842105 8.11184211 14.0723684 9.6837406 14.018797 9.81907895 14.0780075 9.97274436 14.2091165 10.0361842L14.2091165 10.0361842C14.3486842 10.1038534 14.5164474 10.0460526 14.5841165 9.90789474 14.5869361 9.90366541 14.5883459 9.89802632 14.5911654 9.89238722 15.3214286 8.14567669 15.043703 6.12406015 13.8609023 4.64238722 13.7650376 4.52255639 13.5888158 4.50281955 13.468985 4.59868421 13.4633459 4.60291353 13.4591165 4.60714286 13.4534774 4.61137218L13.4534774 4.61137218C13.3463346 4.70864662 13.3322368 4.87077068 13.4196429 4.98637218z"/>
+      </g>
+      <g fill-rule="nonzero">
+        <use fill="#323639" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-e"/>
+        <use fill="#000" filter="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-f)" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-e"/>
+      </g>
+      <rect width="1188" height="1" x="1" y="110" fill="#282828" fill-rule="nonzero"/>
+      <rect width="1005" height="28" x="108" y="46" fill="#282C2F" fill-rule="nonzero" rx="14"/>
+      <text font-family="ArialMT, Arial" font-size="13">
+        <tspan x="119" y="65" fill="#D6D9DC">https</tspan> <tspan x="147.184" y="65" fill="#9AA0A6">://</tspan> <tspan x="158.019" y="65" fill="#D6D9DC">announce.today</tspan> <tspan x="250.542" y="65" fill="#9AA0A6">/</tspan>
+      </text>
+      <text fill="#9AA0A6" font-family="ArialMT, Arial" font-size="13">
+        <tspan x="37" y="96">Apps</tspan>
+      </text>
+      <path fill="#8A8C8E" fill-rule="nonzero" d="M22.5873846,54.2128522 L22.5942911,54.2195822 C22.8797009,54.4976998 22.8856124,54.9545289 22.6074949,55.2399386 C22.6031508,55.2443967 22.5987491,55.2487983 22.5942911,55.2531424 L18.485,59.257 L28.2691626,59.2571665 C28.6727929,59.2571665 29,59.5843736 29,59.9880039 C29,60.3916343 28.6727929,60.7188414 28.2691626,60.7188414 L18.46,60.718 L22.5942911,64.7468576 C22.5965201,64.7490296 22.598735,64.7512161 22.6009357,64.7534167 C22.8856124,65.0454711 22.8797009,65.5023002 22.5942911,65.7804178 L22.5942911,65.7804178 C22.2961403,66.0709507 21.8317817,66.0709507 21.5405374,65.7871478 L21.5405374,65.7871478 L16.2303301,60.6126168 C16.2258721,60.6082727 16.2214704,60.6038711 16.2171263,60.599413 C16.0885909,60.4675074 16.0207224,60.2989877 16.0130735,60.1284171 C16.0046568,60.0832211 16,60.0361563 16,59.9880039 C16,59.9363109 16.0053668,59.8858714 16.0155737,59.8372122 C16.0299851,59.6788352 16.0971098,59.5237503 16.2171263,59.400587 C16.2214704,59.3961289 16.2258721,59.3917273 16.2303301,59.3873832 L21.5405374,54.2128522 C21.8317817,53.9290493 22.2961403,53.9290493 22.5873846,54.2128522 Z"/>
+      <path fill="#8A8C8E" fill-rule="nonzero" d="M54.5873846,54.2128522 L54.5942911,54.2195822 C54.8797009,54.4976998 54.8856124,54.9545289 54.6074949,55.2399386 C54.6031508,55.2443967 54.5987491,55.2487983 54.5942911,55.2531424 L50.485,59.257 L60.2691626,59.2571665 C60.6727929,59.2571665 61,59.5843736 61,59.9880039 C61,60.3916343 60.6727929,60.7188414 60.2691626,60.7188414 L50.46,60.718 L54.5942911,64.7468576 C54.5965201,64.7490296 54.598735,64.7512161 54.6009357,64.7534167 C54.8856124,65.0454711 54.8797009,65.5023002 54.5942911,65.7804178 L54.5942911,65.7804178 C54.2961403,66.0709507 53.8317817,66.0709507 53.5405374,65.7871478 L53.5405374,65.7871478 L48.2303301,60.6126168 C48.2258721,60.6082727 48.2214704,60.6038711 48.2171263,60.599413 C48.0885909,60.4675074 48.0207224,60.2989877 48.0130735,60.1284171 C48.0046568,60.0832211 48,60.0361563 48,59.9880039 C48,59.9363109 48.0053668,59.8858714 48.0155737,59.8372122 C48.0299851,59.6788352 48.0971098,59.5237503 48.2171263,59.400587 C48.2214704,59.3961289 48.2258721,59.3917273 48.2303301,59.3873832 L53.5405374,54.2128522 C53.8317817,53.9290493 54.2961403,53.9290493 54.5873846,54.2128522 Z" transform="matrix(-1 0 0 1 109 0)"/>
+      <path fill="#8A8C8E" d="M94,59.4668286 L94,54 L91.8461425,56.2133748 C90.7134939,54.9384394 89.0841709,54.1420981 87.2636713,54.1420981 C83.8052025,54.1420981 81,57.0225444 81,60.5749962 C81,64.1284348 83.8052025,67 87.2636713,67 C89.8767366,67 92.1151345,65.361925 93.0469997,63.0232276 C93.0854271,62.9235616 93.1046409,62.8248823 93.1046409,62.7271899 C93.1046409,62.3127372 92.7876145,61.9762411 92.3841265,61.9762411 C92.0959208,61.9762411 91.8461425,62.1548505 91.7308602,62.4015485 C91.7116465,62.4301655 91.7020396,62.4696372 91.6924328,62.4992409 C90.9623116,64.2655989 89.2522909,65.508957 87.2636713,65.508957 C84.6121785,65.508957 82.4602424,63.2995294 82.4602424,60.5749962 C82.4602424,57.8514498 84.6121785,55.6410354 87.2636713,55.6410354 C88.6797221,55.6410354 89.9535915,56.2706088 90.817248,57.2682557 L88.6576264,59.4875512 C88.6576264,59.446106 94,59.4668286 94,59.4668286"/>
+      <g fill-rule="nonzero" transform="translate(16 85)">
+        <use fill="#000" filter="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-g)" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-h"/>
+        <use fill="#F63832" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-h"/>
+        <use fill="#000" filter="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-i)" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-j"/>
+        <use fill="#F63832" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-j"/>
+        <use fill="#000" filter="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-k)" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-l"/>
+        <use fill="#F63832" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-l"/>
+        <use fill="#000" filter="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-m)" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-n"/>
+        <use fill="#319D5A" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-n"/>
+        <use fill="#000" filter="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-o)" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-p"/>
+        <use fill="#1F8BF3" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-p"/>
+        <use fill="#000" filter="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-q)" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-r"/>
+        <use fill="#F0A100" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-r"/>
+        <use fill="#000" filter="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-s)" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-t"/>
+        <use fill="#319D5A" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-t"/>
+        <use fill="#000" filter="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-u)" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-v"/>
+        <use fill="#F0A100" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-v"/>
+        <use fill="#000" filter="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-w)" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-x"/>
+        <use fill="#F0A100" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-x"/>
+      </g>
+    </g>
+    <g mask="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-b)">
+      <g transform="translate(86 87)">
+        <g fill-rule="nonzero">
+          <use fill="#DFE1E5" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-y"/>
+          <use fill="#000" filter="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-z)" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-y"/>
+        </g>
+        <circle cx="19" cy="21.5" r="6" fill="#FF5A52" fill-rule="nonzero"/>
+        <circle cx="39" cy="21.5" r="6" fill="#E6C029" fill-rule="nonzero"/>
+        <circle cx="59" cy="21.5" r="6" fill="#53C22B" fill-rule="nonzero"/>
+        <path fill="#55575A" fill-rule="nonzero" d="M340,19 C340.552285,19 341,19.4477153 341,20 L341,24 L345,24 C345.552285,24 346,24.4477153 346,25 C346,25.5522847 345.552285,26 345,26 L341,26 L341,30 C341,30.5522847 340.552285,31 340,31 C339.447715,31 339,30.5522847 339,30 L339,26 L335,26 C334.447715,26 334,25.5522847 334,25 C334,24.4477153 334.447715,24 335,24 L339,24 L339,20 C339,19.4477153 339.447715,19 340,19 Z"/>
+        <g transform="translate(70 8)">
+          <path fill="#FFF" fill-rule="nonzero" d="M16,5.68434189e-14 C10.6666667,5.68434189e-14 8,2.66666667 8,8 C8,13.3333333 8,19.3333333 8,26 C8,31.3333333 5.33333333,34 0,34 C9.33333333,34 14.6666667,34 16,34 L16,5.68434189e-14 Z"/>
+          <path fill="#FFF" fill-rule="nonzero" d="M256,0 C250.666667,0 248,2.66666667 248,8 C248,13.3333333 248,19.3333333 248,26 C248,31.3333333 245.333333,34 240,34 C249.333333,34 254.666667,34 256,34 L256,0 Z" transform="matrix(-1 0 0 1 496 0)"/>
+          <rect width="224" height="34" x="16" fill="#FFF" fill-rule="nonzero"/>
+          <path fill="#5D6063" d="M233.16525,17.10825 L235.99625,14.27725 C236.28725,13.98625 236.28725,13.50925 235.99625,13.21825 C235.70525,12.92725 235.22925,12.92725 234.93825,13.21825 L232.10725,16.04925 L229.27625,13.21825 C228.98525,12.92725 228.50925,12.92725 228.21825,13.21825 C227.92725,13.50925 227.92725,13.98625 228.21825,14.27725 L231.04925,17.10825 L228.21825,19.93925 C227.92725,20.23025 227.92725,20.70625 228.21825,20.99725 C228.50925,21.28825 228.98525,21.28825 229.27625,20.99725 L232.10725,18.16625 L234.93825,20.99725 C235.22925,21.28825 235.70525,21.28825 235.99625,20.99725 C236.28725,20.70625 236.28725,20.23025 235.99625,19.93925 L233.16525,17.10825 Z"/>
+        </g>
+        <text fill="#3C4043" font-family="ArialMT, Arial" font-size="13" letter-spacing="-.2">
+          <tspan x="116" y="29">Announce</tspan>
+        </text>
+        <g fill-rule="nonzero" transform="translate(91 17)">
+          <path fill="#F22F55" d="M3.33834586 11.106203L3.36231203 11.1174812 2.46851504 13.3674812C2.39097744 13.5620301 2.26691729 13.7354323 2.10902256 13.8735902 1.56907895 14.3303571.759868421 14.262688.303101504 13.7227444.112781955 13.4971805.00563909774 13.212406 0 12.9177632L0 12.881109C.00281954887 12.7218045.0352443609 12.5653195.0944548872 12.418703L.979793233 10.1898496.979793233 10.1898496C1.19407895 10.3773496 1.46475564 10.487312 1.74953008 10.5028195L1.81015038 10.5028195 2.58129699 10.5239662C2.74906015 10.7269737 2.95347744 10.8975564 3.18468045 11.0258459 3.23261278 11.0540414 3.28477444 11.0808271 3.33834586 11.106203zM3.75140977 10.1386485L3.60197368 10.1315841 3.54276316 10.1315841C3.50469925 10.1315841 3.47368421 10.1810347 3.47368421 10.2446139 3.47368421 10.2210661 3.47791353 10.1951634 3.48778195 10.1739703 3.50046992 10.1457128 3.52161654 10.1292293 3.54276316 10.1292293L3.60197368 10.1292293 3.75140977 10.1386485zM9.74718045 4.80733083L9.62030075 4.85667293 7.49577068 5.67716165 7.36466165 5.72791353 7.36043233 5.72791353 6.43139098 3.38768797 6.1818609 4.01785714 5.16400376 6.57800752 4.79887218 6.71898496 4.61983083 6.78806391 1.91588346 7.83411654 4.46475564 1.41682331 4.47180451 1.38862782 4.47885338 1.38157895 4.53806391 1.23073308 4.53806391 1.22650376 4.55216165 1.19830827C5.03571429.160714286 6.26926692-.289003759 7.30827068.194548872 7.77772556.41306391 8.14708647.799342105 8.34586466 1.27584586L8.34586466 1.27866541 8.36983083 1.33928571 9.74718045 4.80733083zM12.8656015 12.9121241C12.8557331 13.587406 12.3270677 14.1414474 11.6517857 14.1823308L11.5784774 14.1851504C11.3218985 14.1851504 11.0723684 14.106203 10.862312 13.9581767 10.6522556 13.8129699 10.4901316 13.6085526 10.3956767 13.3703008L9.34116541 10.7142857 11.2711466 10.7678571 11.2796053 10.7678571 11.3388158 10.7706767 11.393797 10.7706767C11.4346805 10.7706767 11.4755639 10.7664474 11.5164474 10.7608083L11.5220865 10.7608083C11.6842105 10.7354323 11.8392857 10.6762218 11.9774436 10.587406L11.9830827 10.5831767 12.0296053 10.5521617 12.7091165 12.2650376 12.7457707 12.3524436 12.7443609 12.3524436 12.7725564 12.4229323C12.8134398 12.5216165 12.8402256 12.6259398 12.8543233 12.7316729L12.8543233 12.7316729C12.862782 12.7908835 12.8656015 12.8515038 12.8656015 12.9121241z"/>
+          <g transform="translate(.959 4.92)">
+            <path fill="#F22F55" d="M11.0949248,4.64802632 C11.0836466,4.64520677 11.0723684,4.64379699 11.0610902,4.64379699 C11.0131579,4.64379699 10.9694549,4.66635338 10.9426692,4.70582707 L10.9299812,4.72838346 C10.8905075,4.79887218 10.843985,4.86513158 10.7904135,4.92575188 C10.7565789,4.96381579 10.7199248,4.99765038 10.6804511,5.02866541 C10.6057331,5.08646617 10.5169173,5.12453008 10.4238722,5.14003759 C10.3984962,5.14285714 10.3717105,5.14567669 10.3463346,5.14567669 C9.76409774,5.14567669 9.15789474,4.1799812 8.96898496,2.91823308 C8.85761278,2.17951128 8.91259398,1.49718045 9.08881579,1.02349624 C9.11137218,0.961466165 9.13815789,0.900845865 9.16776316,0.841635338 C9.3031015,0.572368421 9.48778195,0.40037594 9.70770677,0.367951128 C9.73308271,0.363721805 9.75986842,0.360902256 9.78524436,0.360902256 C10.0136278,0.360902256 10.2462406,0.510338346 10.4548872,0.766917293 L10.4675752,0.782424812 C10.4675752,0.783834586 10.4675752,0.783834586 10.468985,0.783834586 C10.4985902,0.816259398 10.5394737,0.833176692 10.5831767,0.833176692 C10.6691729,0.834586466 10.7382519,0.765507519 10.7396617,0.679511278 C10.7396617,0.648496241 10.731203,0.616071429 10.7128759,0.590695489 L10.7044173,0.578007519 L10.7030075,0.578007519 C10.4281015,0.218515038 10.1080827,0.00563909774 9.79229323,0.00563909774 C9.75704887,0.00563909774 9.72321429,0.00845864662 9.68796992,0.0140977444 C9.64144737,0.0211466165 9.59492481,0.032424812 9.5512218,0.0493421053 L9.54840226,0.0493421053 L9.52866541,0.0578007519 L8.9450188,0.283364662 L8.81390977,0.334116541 L6.6893797,1.15178571 L6.55827068,1.20253759 L3.9924812,2.19360902 L3.81343985,2.26268797 L0.923402256,3.3806391 L0.744360902,3.44971805 L0.628759398,3.49342105 L0.477913534,3.55263158 C0.0578007519,3.76268797 -0.11137218,4.27443609 0.0986842105,4.6931391 C0.12406015,4.74530075 0.155075188,4.79464286 0.191729323,4.83975564 C0.224154135,4.8806391 0.260808271,4.91729323 0.29887218,4.95253759 C0.442669173,5.07800752 0.623120301,5.14990602 0.81343985,5.15977444 L0.857142857,5.15977444 L1.84257519,5.18796992 C1.98073308,5.40789474 2.18515038,5.59680451 2.43327068,5.73778195 C2.47415414,5.76033835 2.51644737,5.78148496 2.5587406,5.80263158 C2.84210526,5.93233083 3.15084586,6 3.46381579,5.99861181 C4.12640977,5.99861181 4.70582707,5.70958647 5.02443609,5.27537594 L8.21193609,5.3656015 L8.3656015,5.36983083 L10.325188,5.42340226 L10.3265977,5.42340226 L10.3956767,5.4262218 L10.4281015,5.4262218 C10.4534774,5.4262218 10.4774436,5.42340226 10.5014098,5.41917293 C10.6043233,5.40366541 10.7030075,5.3656015 10.7904135,5.30780075 L10.7932331,5.30780075 C10.8341165,5.28101504 10.8721805,5.25140977 10.9074248,5.21898496 C11.0117481,5.12171053 11.0991541,5.00892857 11.1668233,4.88345865 L11.2006579,4.82142857 C11.218985,4.74389098 11.1724624,4.66635338 11.0949248,4.64802632 Z M4.27866541,5.35714286 C4.27584586,5.39097744 4.25610902,5.42199248 4.22368421,5.4375 C3.74859023,5.68843985 3.18045113,5.68984962 2.70394737,5.43890977 C2.66165414,5.41494361 2.62077068,5.38956767 2.58270677,5.36278195 L2.54182331,5.33317669 C2.52490602,5.32048872 2.51503759,5.29934211 2.51503759,5.27960526 L2.51503759,5.27819549 C2.51503759,5.26409774 2.51926692,5.24859023 2.52913534,5.23590226 C2.54182331,5.21898496 2.56296992,5.20911654 2.58411654,5.20911654 L2.64332707,5.20911654 L2.79276316,5.21334586 L4.1799812,5.25281955 C4.22932331,5.25281955 4.27020677,5.28806391 4.27725564,5.33599624 C4.27725564,5.33881579 4.27866541,5.34163534 4.27866541,5.34586466 C4.27866541,5.34868421 4.27866541,5.35291353 4.27866541,5.35714286 Z"/>
+            <path fill="#F22F55" d="M4.27725564,5.33599624 C4.27584586,5.32753759 4.27302632,5.31766917 4.26879699,5.30921053 C4.2518797,5.27537594 4.21804511,5.25422932 4.1799812,5.25422932 L2.79276316,5.21475564 L2.64332707,5.21052632 L2.58411654,5.21052632 C2.54605263,5.21052632 2.51503759,5.24013158 2.51503759,5.27819549 C2.51503759,5.26409774 2.51926692,5.24859023 2.52913534,5.23590226 C2.54182331,5.21898496 2.56296992,5.20911654 2.58411654,5.20911654 L2.64332707,5.20911654 L2.79276316,5.21334586 L4.1799812,5.25281955 C4.22932331,5.25281955 4.27020677,5.28806391 4.27725564,5.33599624 Z"/>
+            <path fill="#FFF" d="M4.22368421,5.80306666 C3.74859023,6.63499638 3.18045113,6.63967014 2.70394737,5.80774042 C2.66165414,5.72828646 2.62077068,5.64415874 2.58270677,5.55535725 L2.54182331,5.45720824 C2.52490602,5.41514437 2.51503759,5.34503794 2.51503759,5.27960526 C2.51503759,5.3497117 2.52490602,5.41981814 2.54182331,5.461882 L2.58270677,5.56003101 C2.62077068,5.6488325 2.66165414,5.73296022 2.70394737,5.81241418 C3.17904135,6.6443439 3.74859023,6.63967014 4.22368421,5.80306666 C4.25610902,5.75632903 4.27584586,5.6488325 4.27866541,5.5366622 C4.27584586,5.6488325 4.25469925,5.75165527 4.22368421,5.80306666 Z M4.22368421,5.80306666 C3.74859023,6.63499638 3.18045113,6.63967014 2.70394737,5.80774042 C2.66165414,5.72828646 2.62077068,5.64415874 2.58270677,5.55535725 L2.54182331,5.45720824 C2.52490602,5.41514437 2.51503759,5.34503794 2.51503759,5.27960526 C2.51503759,5.3497117 2.52490602,5.41981814 2.54182331,5.461882 L2.58270677,5.56003101 C2.62077068,5.6488325 2.66165414,5.73296022 2.70394737,5.81241418 C3.17904135,6.6443439 3.74859023,6.63967014 4.22368421,5.80306666 C4.25610902,5.75632903 4.27584586,5.6488325 4.27866541,5.5366622 C4.27584586,5.6488325 4.25469925,5.75165527 4.22368421,5.80306666 Z M4.22368421,5.80306666 C3.74859023,6.63499638 3.18045113,6.63967014 2.70394737,5.80774042 C2.66165414,5.72828646 2.62077068,5.64415874 2.58270677,5.55535725 L2.54182331,5.45720824 C2.52490602,5.41514437 2.51503759,5.34503794 2.51503759,5.27960526 C2.51503759,5.3497117 2.52490602,5.41981814 2.54182331,5.461882 L2.58270677,5.56003101 C2.62077068,5.6488325 2.66165414,5.73296022 2.70394737,5.81241418 C3.17904135,6.6443439 3.74859023,6.63967014 4.22368421,5.80306666 C4.25610902,5.75632903 4.27584586,5.6488325 4.27866541,5.5366622 C4.27584586,5.6488325 4.25469925,5.75165527 4.22368421,5.80306666 Z"/>
+          </g>
+          <path fill="#F22F55" d="M11.2894737 6.73590226C11.537594 7.32659774 11.6264098 7.97368421 11.5446429 8.60949248 11.5361842 8.67857143 11.5714286 8.74483083 11.6334586 8.77584586L11.637688 8.77584586C11.7166353 8.81672932 11.8139098 8.78430451 11.8533835 8.70535714 11.8618421 8.68843985 11.8674812 8.67152256 11.8703008 8.65319549 11.9633459 7.95817669 11.8717105 7.25469925 11.5869361 6.60620301 11.550282 6.52443609 11.4544173 6.48778195 11.3726504 6.52443609 11.3557331 6.53148496 11.3388158 6.54276316 11.3261278 6.55545113L11.3261278 6.55545113C11.2781955 6.60197368 11.262688 6.67387218 11.2894737 6.73590226zM12.2932331 5.88862782C12.8782895 6.86842105 13.0390038 8.04276316 12.7401316 9.14379699 12.7147556 9.23543233 12.7584586 9.33270677 12.8444549 9.375L12.850094 9.37781955C12.9487782 9.42716165 13.068609 9.38768797 13.1179511 9.28759398 13.1235902 9.27631579 13.1278195 9.26503759 13.1320489 9.2537594 13.4816729 8.04558271 13.3012218 6.74718045 12.6358083 5.6799812 12.5765977 5.58552632 12.4525376 5.55733083 12.3580827 5.61654135 12.3482143 5.62359023 12.3383459 5.6306391 12.3284774 5.63909774L12.3284774 5.63909774C12.2593985 5.70394737 12.2453008 5.8068609 12.2932331 5.88862782zM13.4196429 4.98637218C14.4318609 6.33129699 14.6842105 8.11184211 14.0723684 9.6837406 14.018797 9.81907895 14.0780075 9.97274436 14.2091165 10.0361842L14.2091165 10.0361842C14.3486842 10.1038534 14.5164474 10.0460526 14.5841165 9.90789474 14.5869361 9.90366541 14.5883459 9.89802632 14.5911654 9.89238722 15.3214286 8.14567669 15.043703 6.12406015 13.8609023 4.64238722 13.7650376 4.52255639 13.5888158 4.50281955 13.468985 4.59868421 13.4633459 4.60291353 13.4591165 4.60714286 13.4534774 4.61137218L13.4534774 4.61137218C13.3463346 4.70864662 13.3322368 4.87077068 13.4196429 4.98637218z"/>
+        </g>
+        <g fill-rule="nonzero">
+          <use fill="#FFF" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-A"/>
+          <use fill="#000" filter="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-B)" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-A"/>
+        </g>
+        <rect width="1103" height="1" y="110" fill="#B6B4B6" fill-rule="nonzero"/>
+        <rect width="919" height="28" x="108" y="46" fill="#F1F3F4" fill-rule="nonzero" rx="14"/>
+        <text font-family="ArialMT, Arial" font-size="13">
+          <tspan x="119" y="65" fill="#80868A">https://</tspan> <tspan x="158.019" y="65" fill="#282828">announce.today</tspan> <tspan x="250.542" y="65" fill="#80868A">/</tspan>
+        </text>
+        <text font-family="ArialMT, Arial" font-size="13">
+          <tspan x="37" y="96" fill="#3C4043">Apps</tspan>
+        </text>
+        <path fill="#5F6367" fill-rule="nonzero" d="M22.5873846,54.2128522 L22.5942911,54.2195822 C22.8797009,54.4976998 22.8856124,54.9545289 22.6074949,55.2399386 C22.6031508,55.2443967 22.5987491,55.2487983 22.5942911,55.2531424 L18.485,59.257 L28.2691626,59.2571665 C28.6727929,59.2571665 29,59.5843736 29,59.9880039 C29,60.3916343 28.6727929,60.7188414 28.2691626,60.7188414 L18.46,60.718 L22.5942911,64.7468576 C22.5965201,64.7490296 22.598735,64.7512161 22.6009357,64.7534167 C22.8856124,65.0454711 22.8797009,65.5023002 22.5942911,65.7804178 L22.5942911,65.7804178 C22.2961403,66.0709507 21.8317817,66.0709507 21.5405374,65.7871478 L21.5405374,65.7871478 L16.2303301,60.6126168 C16.2258721,60.6082727 16.2214704,60.6038711 16.2171263,60.599413 C16.0885909,60.4675074 16.0207224,60.2989877 16.0130735,60.1284171 C16.0046568,60.0832211 16,60.0361563 16,59.9880039 C16,59.9363109 16.0053668,59.8858714 16.0155737,59.8372122 C16.0299851,59.6788352 16.0971098,59.5237503 16.2171263,59.400587 C16.2214704,59.3961289 16.2258721,59.3917273 16.2303301,59.3873832 L21.5405374,54.2128522 C21.8317817,53.9290493 22.2961403,53.9290493 22.5873846,54.2128522 Z"/>
+        <path fill="#5F6367" fill-rule="nonzero" d="M54.5873846,54.2128522 L54.5942911,54.2195822 C54.8797009,54.4976998 54.8856124,54.9545289 54.6074949,55.2399386 C54.6031508,55.2443967 54.5987491,55.2487983 54.5942911,55.2531424 L50.485,59.257 L60.2691626,59.2571665 C60.6727929,59.2571665 61,59.5843736 61,59.9880039 C61,60.3916343 60.6727929,60.7188414 60.2691626,60.7188414 L50.46,60.718 L54.5942911,64.7468576 C54.5965201,64.7490296 54.598735,64.7512161 54.6009357,64.7534167 C54.8856124,65.0454711 54.8797009,65.5023002 54.5942911,65.7804178 L54.5942911,65.7804178 C54.2961403,66.0709507 53.8317817,66.0709507 53.5405374,65.7871478 L53.5405374,65.7871478 L48.2303301,60.6126168 C48.2258721,60.6082727 48.2214704,60.6038711 48.2171263,60.599413 C48.0885909,60.4675074 48.0207224,60.2989877 48.0130735,60.1284171 C48.0046568,60.0832211 48,60.0361563 48,59.9880039 C48,59.9363109 48.0053668,59.8858714 48.0155737,59.8372122 C48.0299851,59.6788352 48.0971098,59.5237503 48.2171263,59.400587 C48.2214704,59.3961289 48.2258721,59.3917273 48.2303301,59.3873832 L53.5405374,54.2128522 C53.8317817,53.9290493 54.2961403,53.9290493 54.5873846,54.2128522 Z" transform="matrix(-1 0 0 1 109 0)"/>
+        <path fill="#5F6367" d="M94,59.4668286 L94,54 L91.8461425,56.2133748 C90.7134939,54.9384394 89.0841709,54.1420981 87.2636713,54.1420981 C83.8052025,54.1420981 81,57.0225444 81,60.5749962 C81,64.1284348 83.8052025,67 87.2636713,67 C89.8767366,67 92.1151345,65.361925 93.0469997,63.0232276 C93.0854271,62.9235616 93.1046409,62.8248823 93.1046409,62.7271899 C93.1046409,62.3127372 92.7876145,61.9762411 92.3841265,61.9762411 C92.0959208,61.9762411 91.8461425,62.1548505 91.7308602,62.4015485 C91.7116465,62.4301655 91.7020396,62.4696372 91.6924328,62.4992409 C90.9623116,64.2655989 89.2522909,65.508957 87.2636713,65.508957 C84.6121785,65.508957 82.4602424,63.2995294 82.4602424,60.5749962 C82.4602424,57.8514498 84.6121785,55.6410354 87.2636713,55.6410354 C88.6797221,55.6410354 89.9535915,56.2706088 90.817248,57.2682557 L88.6576264,59.4875512 C88.6576264,59.446106 94,59.4668286 94,59.4668286"/>
+        <g transform="translate(16 85)">
+          <g fill-rule="nonzero">
+            <use fill="#000" filter="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-C)" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-D"/>
+            <use fill="#F63832" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-D"/>
+          </g>
+          <g fill-rule="nonzero">
+            <use fill="#000" filter="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-E)" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-F"/>
+            <use fill="#F63832" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-F"/>
+          </g>
+          <g fill-rule="nonzero">
+            <use fill="#000" filter="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-G)" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-H"/>
+            <use fill="#F63832" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-H"/>
+          </g>
+          <g fill-rule="nonzero">
+            <use fill="#000" filter="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-I)" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-J"/>
+            <use fill="#319D5A" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-J"/>
+          </g>
+          <g fill-rule="nonzero">
+            <use fill="#000" filter="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-K)" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-L"/>
+            <use fill="#1F8BF3" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-L"/>
+          </g>
+          <g fill-rule="nonzero">
+            <use fill="#000" filter="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-M)" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-N"/>
+            <use fill="#F0A100" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-N"/>
+          </g>
+          <g fill-rule="nonzero">
+            <use fill="#000" filter="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-O)" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-P"/>
+            <use fill="#319D5A" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-P"/>
+          </g>
+          <g fill-rule="nonzero">
+            <use fill="#000" filter="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-Q)" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-R"/>
+            <use fill="#F0A100" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-R"/>
+          </g>
+          <g fill-rule="nonzero">
+            <use fill="#000" filter="url(#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-S)" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-T"/>
+            <use fill="#F0A100" xlink:href="#google-chrome-browser-74.0-light-+-google-chrome-browser-74.0-dark-mask-copy-T"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

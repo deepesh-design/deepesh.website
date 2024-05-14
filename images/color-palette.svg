@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="295" height="124" viewBox="0 0 295 124">
+  <g fill="none" fill-rule="evenodd" transform="translate(2 2)">
+    <rect width="87" height="87.304" x="-1" y="-1" fill="#F22F55" stroke="#FFF" stroke-width="2" rx="42"/>
+    <rect width="87" height="87.304" x="68" y="-1" fill="#0080FF" stroke="#FFF" stroke-width="2" rx="42"/>
+    <rect width="86" height="87.304" x="137" y="-1" fill="#FFC31D" stroke="#FFF" stroke-width="2" rx="42"/>
+    <rect width="87" height="87.304" x="205" y="-1" fill="#3D3D3D" stroke="#FFF" stroke-width="2" rx="42"/>
+    <text fill="#000" fill-opacity=".85" font-family="WorkSans-SemiBold, Work Sans" font-size="14" font-weight="500" letter-spacing=".105">
+      <tspan x="221" y="118.304">3D3D3D</tspan>
+    </text>
+    <text fill="#000" fill-opacity=".85" font-family="WorkSans-SemiBold, Work Sans" font-size="14" font-weight="500" letter-spacing=".105">
+      <tspan x="154" y="118.304">FFC31D</tspan>
+    </text>
+    <text fill="#000" fill-opacity=".85" font-family="WorkSans-SemiBold, Work Sans" font-size="14" font-weight="500" letter-spacing=".105">
+      <tspan x="85" y="118.304">0080FF</tspan>
+    </text>
+    <text fill="#000" fill-opacity=".85" font-family="WorkSans-SemiBold, Work Sans" font-size="14" font-weight="500" letter-spacing=".105">
+      <tspan x="17" y="118.304">F22F55</tspan>
+    </text>
+  </g>
+</svg>

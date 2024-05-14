@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 466.9 95.7">
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <g style="isolation: isolate">
+          <path d="M27.6,9.7h8.3V56.3H27.6Zm4.1,24.5H43.4a10,10,0,0,0,7-2.3,8.7,8.7,0,0,0,2.5-6.5h0a8.6,8.6,0,0,0-2.5-6.5,10,10,0,0,0-7-2.3H31.7V9.7H45.5a17.3,17.3,0,0,1,8.3,2,14.3,14.3,0,0,1,5.5,5.4,16.6,16.6,0,0,1,2,8.2h0a16.6,16.6,0,0,1-2,8.2,14.3,14.3,0,0,1-5.5,5.4,17.3,17.3,0,0,1-8.3,2H31.7Z" transform="translate(0 -2.4)" fill="#b1b1b2"/>
+        </g>
+        <text transform="translate(0 89.8)" font-size="18" fill="#b1b1b2" font-family="ArialMT, Arial" style="isolation: isolate"><tspan letter-spacing="-0.02em">P</tspan><tspan x="11.7" y="0" letter-spacing="-0.06em"> </tspan><tspan x="15.7" y="0">Alphabet</tspan></text>
+        <text transform="translate(216.6 89.8)" font-size="18" fill="#b1b1b2" font-family="ArialMT, Arial" style="isolation: isolate">Location</text>
+        <text transform="translate(424.1 89.8)" font-size="18" fill="#007aff" font-family="ArialMT, Arial" style="isolation: isolate">Point</text>
+        <g>
+          <line x1="140.3" y1="10.3" x2="140.3" y2="49.3" fill="none" stroke="#b1b1b2" stroke-linejoin="round" stroke-width="5"/>
+          <line x1="159.8" y1="29.8" x2="120.8" y2="29.8" fill="none" stroke="#b1b1b2" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+        <g>
+          <line x1="366.2" y1="22.8" x2="336.2" y2="22.8" fill="none" stroke="#b1b1b2" stroke-linejoin="round" stroke-width="5"/>
+          <line x1="366.2" y1="37.8" x2="336.2" y2="37.8" fill="none" stroke="#b1b1b2" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+        <g>
+          <line x1="140.3" y1="10.3" x2="140.3" y2="49.3" fill="none" stroke="#b1b1b2" stroke-linejoin="round" stroke-width="5"/>
+          <line x1="159.8" y1="29.8" x2="120.8" y2="29.8" fill="none" stroke="#b1b1b2" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+        <g>
+          <line x1="366.2" y1="22.8" x2="336.2" y2="22.8" fill="none" stroke="#b1b1b2" stroke-linejoin="round" stroke-width="5"/>
+          <line x1="366.2" y1="37.8" x2="336.2" y2="37.8" fill="none" stroke="#b1b1b2" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+        <path d="M250.6,7.8a18.5,18.5,0,0,0-18.5,18.5c0,9.8,16.8,31.8,17.5,32.8a1.2,1.2,0,0,0,2,0c.7-1,17.5-23,17.5-32.8A18.5,18.5,0,0,0,250.6,7.8Zm0,27.1a8.6,8.6,0,1,1,8.6-8.6A8.5,8.5,0,0,1,250.6,34.9Z" transform="translate(0 -2.4)" fill="#b1b1b2"/>
+        <g>
+          <g id="Layer_2-2" data-name="Layer 2">
+            <g id="Layer_2-2-2" data-name="Layer 2-2">
+              <circle cx="444.6" cy="22.3" r="6.1" fill="#007aff"/>
+            </g>
+          </g>
+          <path d="M449.6,3a24.5,24.5,0,0,0-11.1.2h-.1a22.2,22.2,0,0,0-13.8,11.6,26.2,26.2,0,0,0-1.5,3.9,22.1,22.1,0,0,0-.5,2.5c-1.5,12,4,24.5,11.8,33.3a65.5,65.5,0,0,0,6.5,6.4,2.2,2.2,0,0,0,3.7-1.6V49.2a2.5,2.5,0,0,1,.8-1.8,5,5,0,0,1,2.1-.5l1.5-.2a22.7,22.7,0,0,0,17.1-15.9C469.6,18.7,461.6,5.5,449.6,3Zm7.2,22.4a12.5,12.5,0,0,1-5.4,9.5c-9.4,6.3-21.7-2.7-18.5-13.5C437.2,7.6,457.2,10.9,456.8,25.4Z" transform="translate(0 -2.4)" fill="#007aff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
