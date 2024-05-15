@@ -1257,6 +1257,10 @@ a {
   display: flex;
 }
 
+.link-block.phone {
+  display: none;
+}
+
 .text-block-11 {
   color: var(--ivory-2);
   letter-spacing: .5px;
@@ -6578,7 +6582,7 @@ a {
   padding-top: 60px;
 }
 
-.tab-link-tab-1 {
+.tab {
   color: var(--black);
   background-color: rgba(0, 0, 0, 0);
   border-radius: 50px;
@@ -6587,12 +6591,12 @@ a {
   transition: all .2s;
 }
 
-.tab-link-tab-1:hover {
+.tab:hover {
   background-color: rgba(0, 0, 0, .05);
   border-radius: 50px;
 }
 
-.tab-link-tab-1.w--current {
+.tab.w--current {
   background-color: var(--teal);
   color: #fff;
   border-radius: 50px;
@@ -6650,7 +6654,6 @@ a {
   max-width: 1742px;
   height: 100%;
   display: flex;
-  position: relative;
 }
 
 .tab-link-tab-3 {
@@ -7777,6 +7780,14 @@ a {
   font-weight: 600;
   line-height: 140%;
   text-decoration: none;
+}
+
+.anchor-div {
+  position: absolute;
+  top: 0%;
+  bottom: auto;
+  left: 0%;
+  right: 0%;
 }
 
 @media screen and (max-width: 991px) {
@@ -14462,7 +14473,7 @@ a {
     padding-bottom: 60px;
   }
 
-  .tab-link-tab-1 {
+  .tab {
     border-radius: 20px;
     flex-flow: column;
     justify-content: center;
@@ -14472,7 +14483,7 @@ a {
     display: flex;
   }
 
-  .tab-link-tab-1.w--current {
+  .tab.w--current {
     color: var(--white-smoke);
     border-radius: 20px;
     flex-flow: column;
